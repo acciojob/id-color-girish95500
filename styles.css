@@ -1,15 +1,15 @@
-.ab{
+#yellow{
 	background-color: yellow;
 	border: 1px solid green;
 	border-width: 1px;
 }
-.bc{
+#red{
 	background-color: red;
 	border-width: 1px;
 	border: 1px solid black;
 	
 }
-.ca{
+#green{
 	border-width: 1px;
 	background-color: green;
 	border: 1px solid yellow;
